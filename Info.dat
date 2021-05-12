@@ -17,7 +17,7 @@
     "_editors" : {
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.0"
+        "version" : "0.7.379"
       },
       "MMA2" : {
         "version" : "4.7.2"
@@ -30,14 +30,19 @@
         "_iconPath" : ""
       },
       {
-        "_name" : "Reddek",
-        "_role" : "Lighter",
-        "_iconPath" : ""
-      },
-      {
         "_name" : "TommyTheTom",
         "_role" : "Lighter/Mapper",
-        "_iconPath" : ""
+        "_iconPath" : "Tommy.jpeg"
+      },
+      {
+        "_name" : "megamaz",
+        "_role" : "Lighter/Mapper/Extension",
+        "_iconPath" : "megamaz.png"
+      },
+      {
+        "_name" : "SuperMemer417",
+        "_role" : "Lighter/Mapper/Extension",
+        "_iconPath" : "meme.jpg"
       }
     ]
   },
