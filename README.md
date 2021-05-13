@@ -1,6 +1,6 @@
 # GNOST
 A [NoodleExtensions](https://github.com/Aeroluna/NoodleExtensions) version of [Ghost - Camellia](https://m.youtube.com/watch?v=OjbjZcBctuM), inspired by [DankRuptMemer](https://twitter.com/dankruptmemer).
-The If you would like to assist please DM:
+If you would like to assist please DM:
 
 SuperMemer417#3522
 
