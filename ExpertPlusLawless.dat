@@ -6860,11 +6860,7 @@
   "_waypoints" : [
   ],
   "_customData" : {
-<<<<<<< HEAD
     "_time" : 392.234,
-=======
-    "_time" : 355.632,
->>>>>>> a870bca1b250a200022d2eb6df95751e6eb6948f
     "_bookmarks" : [
       {
         "_time" : 38,
@@ -6881,13 +6877,10 @@
       {
         "_time" : 230,
         "_name" : "drop 1"
-<<<<<<< HEAD
       },
       {
         "_time" : 394.477,
         "_name" : "Funny Part"
-=======
->>>>>>> a870bca1b250a200022d2eb6df95751e6eb6948f
       }
     ]
   }
