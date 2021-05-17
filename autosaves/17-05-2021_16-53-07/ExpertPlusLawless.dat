@@ -3793,7 +3793,7 @@
       "_lineIndex" : 1,
       "_lineLayer" : 1,
       "_type" : 1,
-      "_cutDirection" : 8
+      "_cutDirection" : 0
     },
     {
       "_time" : 246.938,
@@ -3807,7 +3807,7 @@
       "_lineIndex" : 1,
       "_lineLayer" : 2,
       "_type" : 1,
-      "_cutDirection" : 8
+      "_cutDirection" : 0
     },
     {
       "_time" : 248,
@@ -3894,298 +3894,11 @@
       "_cutDirection" : 1
     },
     {
-      "_time" : 252.25,
-      "_lineIndex" : 0,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 2
-    },
-    {
       "_time" : 253,
       "_lineIndex" : 2,
       "_lineLayer" : 2,
       "_type" : 1,
       "_cutDirection" : 0
-    },
-    {
-      "_time" : 253.75,
-      "_lineIndex" : 3,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 3
-    },
-    {
-      "_time" : 254,
-      "_lineIndex" : 1,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 254.5,
-      "_lineIndex" : 0,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 2
-    },
-    {
-      "_time" : 255,
-      "_lineIndex" : 1,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 255.75,
-      "_lineIndex" : 3,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 3
-    },
-    {
-      "_time" : 256,
-      "_lineIndex" : 0,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 256.5,
-      "_lineIndex" : 0,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 2
-    },
-    {
-      "_time" : 257,
-      "_lineIndex" : 0,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 257.75,
-      "_lineIndex" : 3,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 3
-    },
-    {
-      "_time" : 258,
-      "_lineIndex" : 1,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 258.5,
-      "_lineIndex" : 0,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 2
-    },
-    {
-      "_time" : 259,
-      "_lineIndex" : 1,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 259.75,
-      "_lineIndex" : 3,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 3
-    },
-    {
-      "_time" : 260,
-      "_lineIndex" : 2,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 260.25,
-      "_lineIndex" : 0,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 2
-    },
-    {
-      "_time" : 260.5,
-      "_lineIndex" : 3,
-      "_lineLayer" : 0,
-      "_type" : 0,
-      "_cutDirection" : 7
-    },
-    {
-      "_time" : 261,
-      "_lineIndex" : 2,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 261.5,
-      "_lineIndex" : 1,
-      "_lineLayer" : 2,
-      "_type" : 0,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 262,
-      "_lineIndex" : 1,
-      "_lineLayer" : 0,
-      "_type" : 0,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 262,
-      "_lineIndex" : 2,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 262.5,
-      "_lineIndex" : 2,
-      "_lineLayer" : 0,
-      "_type" : 0,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 262.5,
-      "_lineIndex" : 3,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 262.562,
-      "_lineIndex" : 2,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 262.562,
-      "_lineIndex" : 3,
-      "_lineLayer" : 1,
-      "_type" : 1,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 262.625,
-      "_lineIndex" : 2,
-      "_lineLayer" : 2,
-      "_type" : 0,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 262.625,
-      "_lineIndex" : 3,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 263.062,
-      "_lineIndex" : 0,
-      "_lineLayer" : 2,
-      "_type" : 0,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 263.062,
-      "_lineIndex" : 1,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 263.125,
-      "_lineIndex" : 0,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 263.125,
-      "_lineIndex" : 1,
-      "_lineLayer" : 1,
-      "_type" : 1,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 263.188,
-      "_lineIndex" : 0,
-      "_lineLayer" : 0,
-      "_type" : 0,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 263.188,
-      "_lineIndex" : 1,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 264,
-      "_lineIndex" : 2,
-      "_lineLayer" : 0,
-      "_type" : 0,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 264,
-      "_lineIndex" : 3,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 0
-    },
-    {
-      "_time" : 264.062,
-      "_lineIndex" : 2,
-      "_lineLayer" : 1,
-      "_type" : 0,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 264.062,
-      "_lineIndex" : 3,
-      "_lineLayer" : 1,
-      "_type" : 1,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 264.125,
-      "_lineIndex" : 2,
-      "_lineLayer" : 2,
-      "_type" : 0,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 264.125,
-      "_lineIndex" : 3,
-      "_lineLayer" : 2,
-      "_type" : 1,
-      "_cutDirection" : 8
-    },
-    {
-      "_time" : 265,
-      "_lineIndex" : 1,
-      "_lineLayer" : 0,
-      "_type" : 0,
-      "_cutDirection" : 1
-    },
-    {
-      "_time" : 265,
-      "_lineIndex" : 2,
-      "_lineLayer" : 0,
-      "_type" : 1,
-      "_cutDirection" : 1
     },
     {
       "_time" : 394.477,
@@ -5915,7 +5628,7 @@
   "_waypoints" : [
   ],
   "_customData" : {
-    "_time" : 455.683,
+    "_time" : 442.743,
     "_bookmarks" : [
       {
         "_time" : 38,

@@ -11,13 +11,13 @@
   "_previewDuration" : 97,
   "_songFilename" : "song.ogg",
   "_coverImageFilename" : "cover.jpg",
-  "_environmentName" : "OriginsEnvironment",
+  "_environmentName" : "TriangleEnvironment",
   "_songTimeOffset" : 0,
   "_customData" : {
     "_editors" : {
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.7.379"
+        "version" : "0.7.0"
       },
       "MMA2" : {
         "version" : "4.7.2"

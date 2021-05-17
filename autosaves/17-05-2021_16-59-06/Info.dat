@@ -1,0 +1,80 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Ghost",
+  "_songSubName" : "",
+  "_songAuthorName" : "Camellia",
+  "_levelAuthorName" : "Various Mappers",
+  "_beatsPerMinute" : 220,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_previewStartTime" : 27,
+  "_previewDuration" : 97,
+  "_songFilename" : "song.ogg",
+  "_coverImageFilename" : "cover.jpg",
+  "_environmentName" : "TriangleEnvironment",
+  "_songTimeOffset" : 0,
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.7.0"
+      },
+      "MMA2" : {
+        "version" : "4.7.2"
+      }
+    },
+    "_contributors" : [
+      {
+        "_name" : "Totally Balloon",
+        "_role" : "Lighter",
+        "_iconPath" : ""
+      },
+      {
+        "_name" : "TommyTheTom",
+        "_role" : "Lighter/Mapper",
+        "_iconPath" : "Tommy.jpeg"
+      },
+      {
+        "_name" : "megamaz",
+        "_role" : "Lighter/Mapper/Extension",
+        "_iconPath" : "megamaz.png"
+      },
+      {
+        "_name" : "SuperMemer417",
+        "_role" : "Lighter/Mapper/Extension",
+        "_iconPath" : "meme.jpg"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Lawless",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusLawless.dat",
+          "_noteJumpMovementSpeed" : 22,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "The Paranormal Virus",
+            "_editorOffset" : 0,
+            "_editorOldOffset" : 0,
+            "_colorLeft" : {"r":0.713,"g":0.713,"b":0.815},
+            "_colorRight" : {"r":0.146,"g":0.331,"b":0.502},
+            "_envColorLeft" : {"r":0.522,"g":0.012,"b":0.29},
+            "_envColorRight" : {"r":0.432,"g":0.333,"b":1},
+            "_obstacleColor" : {"r":0.349,"g":0.388,"b":0.486},
+            "_environmentRemoval" : [
+              "Spectrograms"
+            ],
+            "_suggestions" : [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment"
+}
