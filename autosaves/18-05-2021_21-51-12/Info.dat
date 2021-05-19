@@ -11,7 +11,7 @@
   "_previewDuration" : 97,
   "_songFilename" : "song.ogg",
   "_coverImageFilename" : "cover.jpg",
-  "_environmentName" : "TriangleEnvironment",
+  "_environmentName" : "FitBeatEnvironment",
   "_songTimeOffset" : 0,
   "_customData" : {
     "_editors" : {
